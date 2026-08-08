@@ -1,7 +1,7 @@
 filters:
   and:
-    - file.tags.contains("#project")
-    - not(file.tags.contains("#project/idea"))
+    - file.hasTag("project")
+    - '!file.hasTag("project/idea")'
 views:
   - type: table
     name: Active Projects

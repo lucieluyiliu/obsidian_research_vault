@@ -4,7 +4,7 @@ summaries:
   Unique: values.unique().length
 filters:
   and:
-    - file.tags.contains("#source/paper")
+    - file.hasTag("source/paper")
 formulas:
   Topics: file.properties.hasTopic
 views:
