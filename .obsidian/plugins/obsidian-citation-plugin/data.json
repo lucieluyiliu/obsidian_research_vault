@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{title}}",
+  "literatureNoteFolder": "Literature",
+  "literatureNoteContentTemplate": "---\naliases: [{{citekey}}]\nyear: {{year}}\nhasTopic: []\nauthor: [{{#each entry.author}}\"[[{{this.given}} {{this.family}}]]\"{{#unless @last}}, {{/unless}}{{/each}}]\nproject: []\npublishedIn: \nJEL: \nciteKey: {{citekey}}\nzoteroUri: {{zoteroSelectURI}}\nurl: {{URL}}\n---\n\n{{#if abstract}}\n> [!abstract]-\n> {{abstract}}\n{{/if}}\n\n## Key Contribution\n\n## Methodology\n\n## Data\n\n## Main Results\n\n## Relevance to My Work\n\n--- \n#source/paper",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/yiliul2/Dropbox/Obsidian/research-vault/zotero-export.bib"
+}

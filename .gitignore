@@ -1,0 +1,9 @@
+# Machine-local: symlinks/junctions recreated by setup.sh / setup.ps1
+Projects/
+
+# Machine-local overrides and state
+projects.local.txt
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.DS_Store
+zotero-export.bib

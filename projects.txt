@@ -1,0 +1,8 @@
+# One line per project: <link-name>|<path to that project's notes folder>
+# $DROPBOX resolves to the machine's Dropbox root (see setup.sh / setup.ps1).
+# To override on one machine only, copy this file to projects.local.txt and edit.
+Global-institutions-notes|$DROPBOX/JMP/Notes
+Flow-spillover-notes|$DROPBOX/FlowIntSpillover/Notes
+IO-shortsale-notes|$DROPBOX/IO_shortsale/Notes
+SupplyChain-notes|$DROPBOX/SupplyChain_JLL/Notes
+News-georisk-notes|$DROPBOX/News-based Geoeconomic Risk/Notes

@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasTag("project/idea")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - score
+      - hasTopic
+      - with
+    sort:
+      - property: score
+        direction: DESC
+      - property: size
+        direction: ASC
+    columnSize:
+      file.name: 393
+      note.hasTopic: 490

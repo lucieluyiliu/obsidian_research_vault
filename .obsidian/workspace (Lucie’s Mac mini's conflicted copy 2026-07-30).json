@@ -1,0 +1,696 @@
+{
+  "main": {
+    "id": "c8e1cb00ea9981b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8473d00cadc18c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e088511ee85395",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "mc_pseudotruth_overnight_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/mc_pseudotruth_overnight_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mc_pseudotruth_overnight_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":160.31510416666666}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":7.0702370500438985}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":560.3600260416666}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":500.0921223958333}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":239,\"ch\":245},\"to\":{\"line\":239,\"ch\":245}},\"scroll\":248.3330078125}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "step2a_factor_construction_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2a_factor_construction_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2a_factor_construction_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "global_institutions_mandate_measurement_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/global_institutions_mandate_measurement_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"global_institutions_mandate_measurement_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":368.1129321957791}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "step2a_factor_construction_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2a_factor_construction_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2a_factor_construction_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":76.2804208600183}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.479166666666667}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":84},\"to\":{\"line\":7,\"ch\":84}},\"scroll\":208.74348958333334}"
+                },
+                {
+                  "title": "step2a_factor_construction_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2a_factor_construction_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2a_factor_construction_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":29},\"to\":{\"line\":33,\"ch\":29}},\"scroll\":60.95796329188869}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":17.94509548611111}"
+                },
+                {
+                  "title": "step2_factor_construction_estimation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_factor_construction_estimation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_factor_construction_estimation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":21.347542924807577}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":311.21457364341086}"
+                },
+                {
+                  "title": "RFS Submission Writing Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Submission Writing Notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"RFS Submission Writing Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "supply_chain_upstream_downstream_natural_hedge_summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/SupplyChain-notes/Ideas/supply_chain_upstream_downstream_natural_hedge_summary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"supply_chain_upstream_downstream_natural_hedge_summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":650},\"to\":{\"line\":7,\"ch\":650}},\"scroll\":20.488563586459286}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":119,\"ch\":0}},\"scroll\":111.9262015503876}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":259.45395348837206}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":7.112379280070237}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":472,\"ch\":82},\"to\":{\"line\":472,\"ch\":82}},\"scroll\":468.568359375}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":21.78764965343415}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":236.77256944444446}"
+                },
+                {
+                  "title": "monte_carlo_gmm_implementation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"monte_carlo_gmm_implementation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":587},\"to\":{\"line\":13,\"ch\":587}},\"scroll\":58.95442274098777}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":279,\"ch\":678},\"to\":{\"line\":279,\"ch\":678}},\"scroll\":234.03802083333332}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":35},\"to\":{\"line\":48,\"ch\":35}},\"scroll\":39.805426356589145}"
+                },
+                {
+                  "title": "coverage_measure_implementation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/coverage_measure_implementation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"coverage_measure_implementation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "step2_factor_construction_estimation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_factor_construction_estimation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_factor_construction_estimation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "analytical_framework_first_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_first_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_first_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "analytical_framework_second_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_second_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_second_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "supply_chain_upstream_downstream_natural_hedge_summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/SupplyChain-notes/Ideas/supply_chain_upstream_downstream_natural_hedge_summary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"supply_chain_upstream_downstream_natural_hedge_summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "measurement_to_estimation_bridge_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"measurement_to_estimation_bridge_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":83,\"ch\":0}},\"scroll\":78.09798177083333}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":1},\"to\":{\"line\":1,\"ch\":1}}}"
+                },
+                {
+                  "title": "step2_factor_construction_estimation_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_factor_construction_estimation_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_factor_construction_estimation_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "factor_returns_as_test_assets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/factor_returns_as_test_assets.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"factor_returns_as_test_assets\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "step1_portfolio_sorts_revision_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step1_portfolio_sorts_revision_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step1_portfolio_sorts_revision_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "coverage_measure_implementation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/coverage_measure_implementation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"coverage_measure_implementation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":537,\"ch\":71},\"to\":{\"line\":537,\"ch\":71}},\"scroll\":575.4794921875}"
+                },
+                {
+                  "title": "supply_chain_upstream_downstream_natural_hedge_summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/SupplyChain-notes/Ideas/supply_chain_upstream_downstream_natural_hedge_summary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"supply_chain_upstream_downstream_natural_hedge_summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":170},\"to\":{\"line\":38,\"ch\":170}},\"scroll\":32.27471876850207}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":354.1285807291667}"
+                },
+                {
+                  "title": "analytical_framework_second_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_second_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_second_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":0},\"to\":{\"line\":119,\"ch\":0}},\"scroll\":242.3324452338662}"
+                },
+                {
+                  "title": "analytical_framework_first_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_first_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_first_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":329.95693884225443}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":86},\"to\":{\"line\":14,\"ch\":86}},\"scroll\":84.14420572916667}"
+                },
+                {
+                  "title": "analytical_framework_second_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_second_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_second_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":266,\"ch\":82},\"to\":{\"line\":266,\"ch\":82}},\"scroll\":258.21195973949085}"
+                },
+                {
+                  "title": "analytical_framework_first_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_first_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_first_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":156,\"ch\":88},\"to\":{\"line\":156,\"ch\":88}},\"scroll\":210.34902309058614}"
+                },
+                {
+                  "title": "analytical_framework_second_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_second_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_second_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":186,\"ch\":0},\"to\":{\"line\":185,\"ch\":0}},\"scroll\":173.240234375}"
+                },
+                {
+                  "title": "analytical_framework_first_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_first_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_first_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":234,\"ch\":0},\"to\":{\"line\":234,\"ch\":0}},\"scroll\":376.0823567708333}"
+                },
+                {
+                  "title": "analytical_framework_second_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_second_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_second_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":54.75014801657785}"
+                },
+                {
+                  "title": "analytical_framework_first_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_first_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_first_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":18.748046875}"
+                },
+                {
+                  "title": "step2_one_step_gmm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"step2_one_step_gmm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":10.9375}"
+                },
+                {
+                  "title": "analytical_framework_first_public_version",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/analytical_framework_first_public_version.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"analytical_framework_first_public_version\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":730.4061574896389}"
+                },
+                {
+                  "title": "global_institutions_mandate_measurement_plan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Projects/Global-institutions-notes/RFS Report Revision/global_institutions_mandate_measurement_plan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"global_institutions_mandate_measurement_plan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "monte_carlo_gmm_implementation_plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "388ab495abb9e4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7fca246d1abad72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a43ef5f01b93175",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70b7157ca230fbfe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2365c291cc99bc31",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4cafb538848cfc00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5
+  },
+  "right": {
+    "id": "c3ac556bd30ba7fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8117aefc9a40d573",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabd56be571d12f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "6667371e12a73c8f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "d75f3bbf91c5def0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a897ae1918ca770",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b25bc7fb7ad70f7f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "d4e088511ee85395",
+  "lastOpenFiles": [
+    "Projects/Global-institutions-notes/RFS Report Revision/Monte Carlo Results.md",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-30-Lucie-Portfolio-Evidence-fR-Sorts.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/portfolio_evidence_overnight_plan.md",
+    "Projects/Flow-spillover-notes/Conceptual.docx",
+    "Projects/Flow-spillover-notes/Conceptual/Directions 2026 July.md",
+    "Projects/Flow-spillover-notes/Conceptual",
+    "Projects/Flow-spillover-notes/History/Empirical Results.md",
+    "Projects/Flow-spillover-notes/Empirical results/Flow-induced price pressure.md",
+    "Projects/Flow-spillover-notes/Plans/HANDOFF_R6_return_tests.md",
+    "Projects/Flow-spillover-notes/Plans/plan_pipeline_review.md",
+    "Projects/Flow-spillover-notes/Plans/plan_bilateral_country_flows.md",
+    "Projects/Flow-spillover-notes/Plans",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-26-Lucie-MC-TheoryHonest-Pricing.md",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-25-Lucie-MC-BetaSorted-TestAssets.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/mc_betasort_overnight_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/mc_pseudotruth_overnight_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/monte_carlo_gmm_implementation_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/step2_one_step_gmm.md",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-24-Lucie-Relabeling-WorldSwitch-GMM-Lambda.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/measurement_to_estimation_bridge_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/Step0F_coverage_validation_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/Step1_portfolio_sorts_revision_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/step2a_factor_construction_implementation_plan.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/global_institutions_mandate_measurement_plan.md",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-23-Lucie-Step2C-Step3D-Cov0-Rewire.md",
+    "Projects/SupplyChain-notes/Meeting notes/meeting 20260723.md",
+    "Projects/SupplyChain-notes/Meeting notes",
+    "Projects/SupplyChain-notes/Untitled",
+    "Projects/SupplyChain-notes/Ideas/GPUCache/data_2",
+    "Projects/SupplyChain-notes/Ideas/DawnCache/data_0",
+    "Projects/SupplyChain-notes/Ideas/DawnCache/data_2",
+    "Projects/SupplyChain-notes/Ideas/DawnCache/data_3",
+    "Projects/SupplyChain-notes/Ideas/GPUCache/index",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-22-Lucie-MC-Step2G-Update-NewFactors.md",
+    "Projects/Global-institutions-notes/WorkingJournal/2026-07-22-Lucie-Step2A-Static-Factor-Construction.md",
+    "Projects/Global-institutions-notes/RFS Report Revision/step2_factor_construction_estimation_plan.md",
+    "Projects/Flow-spillover-notes/WorkingJournal/attachments/2026-07-21-oef-vw-benchmark-family-shares.png",
+    "Projects/Global-institutions-notes/WorkingJournal/attachments/2026-07-12-global-fund-aum.png",
+    "Projects/Global-institutions-notes/WorkingJournal/attachments/2026-07-12-aum-ctry.png",
+    "Projects/Global-institutions-notes/WorkingJournal/attachments/2026-07-12-mass-at-zero-heatmap.png",
+    "Projects/Global-institutions-notes/WorkingJournal/attachments/2026-07-11-active-global-aum.png",
+    "Projects/Global-institutions-notes/WorkingJournal/attachments/2026-07-11-mass-at-zero-heatmap.png",
+    "Projects/Global-institutions-notes/WorkingJournal/attachments/2026-07-11-global-fund-aum.png",
+    "Projects/IO-shortsale-notes/WorkingJournal/attachments/2026-07-07-fig_efficiency_NIBO.png",
+    "Projects/IO-shortsale-notes/WorkingJournal/attachments/2026-07-07-fig_motivation_SSrestrictions_AnyBan_Quarterly.png",
+    "Projects/IO-shortsale-notes/WorkingJournal/attachments/2026-07-07-fig_motivation_SSrestrictions_Uptick_Quarterly.png",
+    "Untitled.canvas"
+  ]
+}

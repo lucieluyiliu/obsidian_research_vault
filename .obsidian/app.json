@@ -1,0 +1,19 @@
+{
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "autoConvertHtml": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Files",
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

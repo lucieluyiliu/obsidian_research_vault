@@ -1,0 +1,28 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+  Empty: values.filter(value.isType("null")).length
+  Unique: values.unique().length
+filters:
+  and:
+    - file.tags.contains("#source/paper")
+formulas:
+  Topics: file.properties.hasTopic
+views:
+  - type: table
+    name: All papers
+    order:
+      - file.name
+      - author
+      - publishedIn
+      - year
+      - hasTopic
+      - project
+    sort:
+      - property: year
+        direction: DESC
+    summaries:
+      hasTopic: Filled
+    columnSize:
+      file.name: 280
+      note.author: 250
+    rowHeight: medium
