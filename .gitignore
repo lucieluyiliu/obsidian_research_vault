@@ -5,5 +5,7 @@ Projects/
 projects.local.txt
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+# Dropbox conflict artefacts, e.g. "workspace (Lucie's Mac mini's conflicted copy 2026-07-23).json"
+*conflicted copy*
 .DS_Store
 zotero-export.bib

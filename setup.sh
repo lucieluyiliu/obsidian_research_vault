@@ -4,11 +4,11 @@
 set -e
 cd "$(dirname "$0")"
 
-DROPBOX=""
-for d in "$HOME/Library/CloudStorage/Dropbox" "$HOME/Dropbox"; do
-  if [ -d "$d" ]; then DROPBOX="$d"; break; fi
+# $DROPBOX from the environment wins if set; otherwise look in the usual places.
+# Not finding it is only fatal for lines that use $DROPBOX -- absolute paths still work.
+for d in "$DROPBOX" "$HOME/Library/CloudStorage/Dropbox" "$HOME/Dropbox"; do
+  if [ -n "$d" ] && [ -d "$d" ]; then DROPBOX="$d"; break; fi
 done
-if [ -z "$DROPBOX" ]; then echo "Dropbox folder not found; edit setup.sh or use absolute paths in projects.local.txt" >&2; exit 1; fi
 
 LIST=projects.txt
 [ -f projects.local.txt ] && LIST=projects.local.txt
@@ -16,6 +16,13 @@ LIST=projects.txt
 mkdir -p Projects
 while IFS='|' read -r name target; do
   case "$name" in ''|\#*) continue;; esac
+  case "$target" in
+    *'$DROPBOX'*)
+      if [ ! -d "$DROPBOX" ]; then
+        echo "SKIP $name: Dropbox folder not found; set \$DROPBOX or use absolute paths in projects.local.txt" >&2
+        continue
+      fi;;
+  esac
   target="${target//\$DROPBOX/$DROPBOX}"
   if [ ! -d "$target" ]; then echo "SKIP $name: target not found: $target" >&2; continue; fi
   ln -sfn "$target" "Projects/$name"
